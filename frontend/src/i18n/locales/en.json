@@ -1,0 +1,122 @@
+{
+  "nav": {
+    "about": "About",
+    "features": "Features",
+    "phytoindex": "PhytoIndex",
+    "contact": "Contact",
+    "getStarted": "Get Started",
+    "prototypeBanner": "Prototype — advisory and product data shown here is demo data, not live."
+  },
+  "hero": {
+    "headline1": "Ask your field a question.",
+    "headline2": "Get an answer you can trust.",
+    "subhead": "Voice-first crop advisory that checks products against government registries, in your language.",
+    "ctaTalk": "Talk to FAR[M]ATE",
+    "ctaHow": "See How It Works"
+  },
+  "stats": {
+    "products": "Verified Products",
+    "languages": "Languages",
+    "response": "Advisory Response",
+    "farmers": "Farmers Onboarded"
+  },
+  "features": {
+    "title": "One companion, four jobs",
+    "advisoryTitle": "Voice Advisory",
+    "advisoryDesc": "Speak or type your crop problem, get a diagnosis and next step.",
+    "diseaseTitle": "Disease Detection",
+    "diseaseDesc": "Photograph a leaf, get a likely disease and treatment path.",
+    "productsTitle": "Verified Products",
+    "productsDesc": "Browse CIB&RC-registered products by crop, category, and region.",
+    "counterfeitTitle": "Counterfeit Check",
+    "counterfeitDesc": "Scan a batch code before you buy or apply anything."
+  },
+  "how": {
+    "title": "How it works",
+    "step1Title": "Speak or Snap",
+    "step1Desc": "Describe the problem out loud, or photograph the affected crop.",
+    "step2Title": "Get Verified Advice",
+    "step2Desc": "FAR[M]ATE checks the diagnosis against registered products.",
+    "step3Title": "Buy & Apply Safely",
+    "step3Desc": "Follow a dosage and safety guide built for that exact product."
+  },
+  "index": {
+    "title": "Verified Product Index",
+    "subtitle": "A live look at what's registered, in one place.",
+    "viewFull": "View Full Index"
+  },
+  "footer": {
+    "disclaimer": "FAR[M]ATE is a prototype built for hackathon challenge SH-AGR-002. Advisory content is informational and does not replace guidance from a licensed agronomist or your local Krishi Vigyan Kendra."
+  },
+  "advisory": {
+    "title": "Voice Advisory",
+    "listening": "Listening...",
+    "tapToSpeak": "Tap to speak",
+    "orType": "Or type your question",
+    "placeholder": "e.g. my tomato leaves have yellow spots",
+    "send": "Send",
+    "you": "You",
+    "farmate": "FAR[M]ATE",
+    "getRecommendations": "Get Product Recommendations",
+    "analyzing": "Analyzing your question..."
+  },
+  "disease": {
+    "title": "Disease Detection",
+    "upload": "Drop an image or click to upload",
+    "capture": "Use Camera",
+    "analyzing": "Analyzing image...",
+    "confidence": "Confidence",
+    "recommendation": "Recommended action",
+    "viewProducts": "View matching products"
+  },
+  "products": {
+    "title": "Verified Products",
+    "totalProducts": "Total Products",
+    "uniqueCrops": "Unique Crops",
+    "categories": "Categories",
+    "suppliers": "Suppliers",
+    "crop": "Crop",
+    "category": "Category",
+    "region": "Region",
+    "registrationBody": "Registration Body",
+    "gridView": "Grid",
+    "tableView": "Table",
+    "verified": "Verified",
+    "viewGuide": "View Safe Usage Guide"
+  },
+  "counterfeit": {
+    "title": "Counterfeit Check",
+    "scan": "Scan QR / Barcode",
+    "manualEntry": "Or enter batch code manually",
+    "verify": "Verify",
+    "verified": "Verified",
+    "unverified": "Unverified — please report",
+    "reportTitle": "Report a Counterfeit",
+    "name": "Your name",
+    "location": "Location",
+    "product": "Product",
+    "photo": "Photo (optional)",
+    "submit": "Submit Report"
+  },
+  "usage": {
+    "title": "Usage Guidance",
+    "dosageCalc": "Dosage Calculator",
+    "fieldSize": "Field size",
+    "ppe": "Protective Equipment",
+    "timing": "Timing & Weather",
+    "storage": "Storage & Disposal",
+    "download": "Download Summary"
+  },
+  "about": {
+    "title": "About FAR[M]ATE",
+    "challenge": "Built for hackathon challenge SH-AGR-002",
+    "mission": "Our mission is to close the gap between a farmer's question and a verified answer."
+  },
+  "contact": {
+    "title": "Contact Us",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send Message"
+  }
+}
